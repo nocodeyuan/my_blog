@@ -1,0 +1,29 @@
+.container{
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+    background-color: #fff;
+}
+
+.firstTip{
+    border-bottom: 1px solid #f0e2e2;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.lastTip{
+    padding-top: 10px;
+    color: #b3aaaa;
+}
+
+a{
+    color: #333;
+}
+
+a:hover{
+    color: skyblue;
+}
+
+p{
+    margin-bottom: 0;
+}
